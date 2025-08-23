@@ -16,7 +16,8 @@ How To Apply?
 5. On left side of extensions page, click Load Unpacked.
 6. Select MicaRedBlue folder and hit select from finder window.
 
-<img width="567" height="806" alt="1" src="https://github.com/user-attachments/assets/5ff42bdb-5ebc-4ba1-98d3-493737fc3be9" />
-<img width="200" height="223" alt="2" src="https://github.com/user-attachments/assets/5af529fc-22ea-4770-92f5-f55b24a5c92e" />
-<img width="400" height="233" alt="3" src="https://github.com/user-attachments/assets/9ab94c6d-1852-4cab-b3bf-05552fa88b77" />
-<img width="873" height="487" alt="4" src="https://github.com/user-attachments/assets/87144ae1-1981-48f6-b360-90c3e0e9a40e" />
+Image Instructions:
+i.<img width="280" height="400" alt="1" src="https://github.com/user-attachments/assets/5ff42bdb-5ebc-4ba1-98d3-493737fc3be9" /><br>
+ii.<img width="200" height="223" alt="2" src="https://github.com/user-attachments/assets/5af529fc-22ea-4770-92f5-f55b24a5c92e" /><br>
+iii.<img width="200" height="140" alt="3" src="https://github.com/user-attachments/assets/9ab94c6d-1852-4cab-b3bf-05552fa88b77" /><br>
+iv.<img width="430" height="240" alt="4" src="https://github.com/user-attachments/assets/87144ae1-1981-48f6-b360-90c3e0e9a40e" />
