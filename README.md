@@ -4,7 +4,7 @@ Custom Created Chrome Supported Themes
 1. MicaRedBlue:
     A custom theme which has gradient of red and blue color on the top tab bar and new tab page.
    Previews:
-    <img width="1280" height="720" alt="1-prev" src="https://github.com/user-attachments/assets/e961c016-4cf9-426e-927b-d5151e83d3c1" />
+    <img width="1280" height="720" alt="1-prev" src="https://github.com/user-attachments/assets/040c9344-6db7-4f12-a464-8a5d33862f84" />
     <img width="1280" height="720" alt="2-prev" src="https://github.com/user-attachments/assets/d9a061d6-4aeb-45fe-854b-d2492da4e14e" />
     <img width="1280" height="720" alt="3-prev" src="https://github.com/user-attachments/assets/966146fa-c01a-46da-b866-8db91bda9529" />
 
