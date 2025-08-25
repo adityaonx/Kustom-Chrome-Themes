@@ -1,3 +1,4 @@
+If you liked this theme, please consider "Star" this project. Thanks.
 # Kustom-Chrome-Themes
 Custom Created Chrome Supported Themes
 1. MicaRedBlue:
