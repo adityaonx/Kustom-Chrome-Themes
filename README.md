@@ -1,4 +1,4 @@
-If you liked this theme, please consider "Star" this project. Thanks.
+If you liked this theme, please consider <img width="20" height="20" alt="star-img" src="https://github.com/user-attachments/assets/14fa5920-374f-4985-acd6-d04bff1d4580" /> this project. Thanks.
 # Kustom-Chrome-Themes
 Custom Created Chrome Supported Themes
 1. MicaRedBlue:
