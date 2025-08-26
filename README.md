@@ -7,7 +7,8 @@ Custom Created Chrome Supported Themes
    <img width="1280" height="720" alt="new-prev-1" src="https://github.com/user-attachments/assets/14e9142a-fd49-438d-8dbf-b128230f0011" />
 <img width="1280" height="720" alt="new-prev-3-enabled-tab" src="https://github.com/user-attachments/assets/d3cc42bf-1fab-433d-acdc-42efd57ebb26" />
 <img width="1280" height="720" alt="disabled-tab-new-prev-2" src="https://github.com/user-attachments/assets/886a5d4e-672a-4786-a427-3af3ec054d8a" />
-<img width="1280" height="720" alt="new-prev-4-new-tab" src="https://github.com/user-attachments/assets/aef5c004-c45f-478b-a4be-a6368d86a21d" />
+<img width="1280" height="720" alt="enabled-renewd" src="https://github.com/user-attachments/assets/21e9bcfd-5c43-448a-a74b-3b11282559b5" />
+
 
 
 
