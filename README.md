@@ -1,6 +1,14 @@
 If you liked this theme, please consider <img width="20" height="20" alt="star-img" src="https://github.com/user-attachments/assets/14fa5920-374f-4985-acd6-d04bff1d4580" /> this project. Thanks.
 # Kustom-Chrome-Themes
 Custom Created Chrome Supported Themes
+2. DarkGalaxy:
+ A custom theme which has galaxy like stars chipped into tab bar with dark grey background for new tab!
+   Previews:
+   
+<img width="1280" height="720" alt="dark-g1" src="https://github.com/user-attachments/assets/217120f5-38a9-49bc-adcd-4eecaee08aee" />
+<img width="1280" height="720" alt="dark-g2" src="https://github.com/user-attachments/assets/d07eb913-640a-47b7-850d-6d00392d24b8" />
+
+
 1. MicaRedBlue:
     A custom theme which has gradient of red and blue color on the top tab bar and new tab page.
    Previews:
