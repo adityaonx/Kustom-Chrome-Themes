@@ -6,7 +6,9 @@ Custom Created Chrome Supported Themes
    Previews:
    
 <img width="1280" height="720" alt="dark-g1" src="https://github.com/user-attachments/assets/217120f5-38a9-49bc-adcd-4eecaee08aee" />
-<img width="1280" height="720" alt="dark-g2" src="https://github.com/user-attachments/assets/d07eb913-640a-47b7-850d-6d00392d24b8" />
+<img width="1280" height="720" alt="dark-g2" src="https://github.com/user-attachments/assets/ebff3025-eb3b-4cd1-80c7-6a0396b417a0" />
+<img width="1280" height="720" alt="dark-g3" src="https://github.com/user-attachments/assets/89676383-f375-47b6-9594-d6fb68fa564f" />
+
 
 
 1. MicaRedBlue:
