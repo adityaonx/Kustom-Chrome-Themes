@@ -6,7 +6,8 @@ Custom Created Chrome Supported Themes
  Simple Dark with minimalism.
  
  Previews:
- <img width="1280" height="720" alt="OnlyDark-1" src="https://github.com/user-attachments/assets/ae70a97f-05d8-420c-9e36-971c8a54a49f" />
+ <img width="1280" height="720" alt="OnlyDark-1" src="https://github.com/user-attachments/assets/ba1196f5-7872-479e-a1dd-ab6d34c1341e" />
+
 
 
 <b> 2. DarkGalaxy:</b>
