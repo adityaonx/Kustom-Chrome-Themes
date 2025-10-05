@@ -2,6 +2,13 @@ If you liked this theme, please consider <img width="20" height="20" alt="star-i
 # Kustom-Chrome-Themes
 Custom Created Chrome Supported Themes
 
+<b> 3. OnlyDark:</b>
+ Simple Dark with minimalism.
+ 
+ Previews:
+ <img width="1280" height="720" alt="OnlyDark-1" src="https://github.com/user-attachments/assets/ae70a97f-05d8-420c-9e36-971c8a54a49f" />
+
+
 <b> 2. DarkGalaxy:</b>
  A custom theme which has galaxy like stars chipped into tab bar with dark grey background for new tab!
    Previews:
